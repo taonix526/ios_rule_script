@@ -1,16 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-17 02:32:08
-# HOST: 10406
+# UPDATED: 2022-10-18 02:46:50
+# HOST: 10404
 # HOST-KEYWORD: 264
-# HOST-SUFFIX: 92015
+# HOST-SUFFIX: 92046
 # IP-CIDR: 242
-# TOTAL: 102927
+# TOTAL: 102956
 HOST,3p-geo.yahoo.com,AdvertisingTest
 HOST,3p-udc.yahoo.com,AdvertisingTest
 HOST,46186911.vtt,AdvertisingTest
-HOST,52sq.shop,AdvertisingTest
 HOST,80055404.vtt,AdvertisingTest
 HOST,absurdapple.com,AdvertisingTest
 HOST,adfox.yandex.ru,AdvertisingTest
@@ -26,7 +25,6 @@ HOST,appboy-images.com,AdvertisingTest
 HOST,apple.www.letv.com,AdvertisingTest
 HOST,applequan.com,AdvertisingTest
 HOST,applescringe.com,AdvertisingTest
-HOST,aszswyd.cn,AdvertisingTest
 HOST,awaps.yandex.ru,AdvertisingTest
 HOST,awsync.yandex.ru,AdvertisingTest
 HOST,bats.video.yahoo.com,AdvertisingTest
@@ -37,46 +35,46 @@ HOST,collector2c.zhihuishu.com,AdvertisingTest
 HOST,cookiex.ngd.yahoo.com,AdvertisingTest
 HOST,crypta.js,AdvertisingTest
 HOST,d1stxfv94hrhia.cloudfront,AdvertisingTest
+HOST,dahaifa.com,AdvertisingTest
 HOST,dmg-dd.oss-accelerate.aliyuncs.com,AdvertisingTest
 HOST,fpb1.apple886.com,AdvertisingTest
-HOST,g9508048080.co,AdvertisingTest
 HOST,ganon.yahoo.com,AdvertisingTest
 HOST,geo.yahoo.com,AdvertisingTest
-HOST,gnsrlki.cn,AdvertisingTest
 HOST,https-apple.com,AdvertisingTest
 HOST,iadsdk.apple.com,AdvertisingTest
 HOST,ib.snssdk.com,AdvertisingTest
 HOST,informer.yandex.ru,AdvertisingTest
-HOST,iwrzdwi.cn,AdvertisingTest
 HOST,jill.fc.yahoo.com,AdvertisingTest
+HOST,jingdoudou.shop,AdvertisingTest
 HOST,jpaasne.e.shifen.com,AdvertisingTest
-HOST,kltxw.xyz,AdvertisingTest
+HOST,log.kslogs.ru,AdvertisingTest
 HOST,log.strm.yandex.ru,AdvertisingTest
 HOST,marketingsolutions.yahoo.com,AdvertisingTest
-HOST,masticsvorlage.website,AdvertisingTest
 HOST,mc.yandex.ru,AdvertisingTest
 HOST,mediaappletree.com,AdvertisingTest
 HOST,meitaolianmeng.ltd,AdvertisingTest
 HOST,mm.n3w1d0ma1n,AdvertisingTest
 HOST,mo.vlpyj.xy,AdvertisingTest
+HOST,network.screen13.com,AdvertisingTest
+HOST,news.imgsina.com,AdvertisingTest
 HOST,nol.yahoo.com,AdvertisingTest
 HOST,pr.comet.yahoo.com,AdvertisingTest
+HOST,pushly.it,AdvertisingTest
 HOST,pv.sohu.com,AdvertisingTest
-HOST,rlsynmlz.fun,AdvertisingTest
-HOST,rocketlinks.ru.com,AdvertisingTest
+HOST,raddoppia-bitcoin.click,AdvertisingTest
 HOST,rrf.fat1domain1,AdvertisingTest
 HOST,shackapple.com,AdvertisingTest
+HOST,sm45k.com,AdvertisingTest
 HOST,stats.video.search.yahoo.com,AdvertisingTest
 HOST,sub.powerapple.com,AdvertisingTest
 HOST,supportmetrics.apple.com,AdvertisingTest
-HOST,telamongobi.com,AdvertisingTest
 HOST,test.vast,AdvertisingTest
 HOST,theapple.site,AdvertisingTest
-HOST,vh5g.top,AdvertisingTest
 HOST,visit.webhosting.yahoo.com,AdvertisingTest
 HOST,wondefulapplend.com,AdvertisingTest
-HOST,wypetoggles.com,AdvertisingTest
 HOST,wzjs1.oss-accelerate.aliyuncs.com,AdvertisingTest
+HOST,xgbqbdp.cn,AdvertisingTest
+HOST,xleqs.xyz,AdvertisingTest
 HOST,youtube.local,AdvertisingTest
 HOST,ad.xy2013.cn,AdvertisingTest
 HOST,ads.play.cbsi.video,AdvertisingTest
@@ -10375,7 +10373,6 @@ HOST,zen.sr,AdvertisingTest
 HOST,10008919.pomelo.fashion,AdvertisingTest
 HOST,2mammis9kbgg.datree.io,AdvertisingTest
 HOST,ad.kddi-fs.com,AdvertisingTest
-HOST,beacon.dropbox.com,AdvertisingTest
 HOST,bhhpo9xbgry3.www.cybernetman.com,AdvertisingTest
 HOST,cdn1.skrill.com,AdvertisingTest
 HOST,content22.bmoharris.com,AdvertisingTest
@@ -10392,6 +10389,7 @@ HOST,logstash-3.radio-canada.ca,AdvertisingTest
 HOST,mcc-tags.cisco.com,AdvertisingTest
 HOST,metrics.apple.com,AdvertisingTest
 HOST,mktcs.cloudapps.cisco.com,AdvertisingTest
+HOST,px.srvcs.tumblr.com,AdvertisingTest
 HOST,retcode.taobao.com,AdvertisingTest
 HOST,s5.charliehebdo.fr,AdvertisingTest
 HOST,securemetrics.apple.com,AdvertisingTest
@@ -11346,6 +11344,7 @@ HOST-SUFFIX,520xiaojin.com,AdvertisingTest
 HOST-SUFFIX,52kp2.com,AdvertisingTest
 HOST-SUFFIX,52lty.store,AdvertisingTest
 HOST-SUFFIX,52pipaxing.com,AdvertisingTest
+HOST-SUFFIX,52sq.shop,AdvertisingTest
 HOST-SUFFIX,52xs.live,AdvertisingTest
 HOST-SUFFIX,52zhekou.online,AdvertisingTest
 HOST-SUFFIX,52zxdai.com,AdvertisingTest
@@ -11907,6 +11906,7 @@ HOST-SUFFIX,8bc4888880.com,AdvertisingTest
 HOST-SUFFIX,8c9cc6d2b0e13.com,AdvertisingTest
 HOST-SUFFIX,8c9cz5kp0o.com,AdvertisingTest
 HOST-SUFFIX,8cc5ff581a88.bitsngo.net,AdvertisingTest
+HOST-SUFFIX,8chj9.com,AdvertisingTest
 HOST-SUFFIX,8coins.net,AdvertisingTest
 HOST-SUFFIX,8d26e3a7f3.com,AdvertisingTest
 HOST-SUFFIX,8daily8.com,AdvertisingTest
@@ -17264,6 +17264,7 @@ HOST-SUFFIX,asxoseeetdclha.xyz,AdvertisingTest
 HOST-SUFFIX,asxvawth.com,AdvertisingTest
 HOST-SUFFIX,asycxtz.cn,AdvertisingTest
 HOST-SUFFIX,asymyvhmwyyop.com,AdvertisingTest
+HOST-SUFFIX,aszswyd.cn,AdvertisingTest
 HOST-SUFFIX,at-o.net,AdvertisingTest
 HOST-SUFFIX,atableofcup.com,AdvertisingTest
 HOST-SUFFIX,atakjyv.cn,AdvertisingTest
@@ -18550,6 +18551,7 @@ HOST-SUFFIX,beacon-api.aliyuncs.com,AdvertisingTest
 HOST-SUFFIX,beacon-fullpage-predictor.goguardian.com,AdvertisingTest
 HOST-SUFFIX,beacon.carfax.com,AdvertisingTest
 HOST-SUFFIX,beacon.digima.com,AdvertisingTest
+HOST-SUFFIX,beacon.dropbox.com,AdvertisingTest
 HOST-SUFFIX,beacon.kmi-us.com,AdvertisingTest
 HOST-SUFFIX,beacon.tws.toyota.jp,AdvertisingTest
 HOST-SUFFIX,beacon.walmart.ca,AdvertisingTest
@@ -26226,6 +26228,7 @@ HOST-SUFFIX,dustymural.com,AdvertisingTest
 HOST-SUFFIX,dutirtougaon.com,AdvertisingTest
 HOST-SUFFIX,dutorterraom.com,AdvertisingTest
 HOST-SUFFIX,dutravisne.com,AdvertisingTest
+HOST-SUFFIX,dutuo4.top,AdvertisingTest
 HOST-SUFFIX,dutyoffendsmear.com,AdvertisingTest
 HOST-SUFFIX,duu8lzqdm8tsz.cloudfront.net,AdvertisingTest
 HOST-SUFFIX,duujslachc.xyz,AdvertisingTest
@@ -29495,6 +29498,7 @@ HOST-SUFFIX,g5rillh2awn8.com,AdvertisingTest
 HOST-SUFFIX,g7.com.tw,AdvertisingTest
 HOST-SUFFIX,g8ads.com,AdvertisingTest
 HOST-SUFFIX,g8cp5djk1j0r.com,AdvertisingTest
+HOST-SUFFIX,g9508048080.co,AdvertisingTest
 HOST-SUFFIX,g9706132415.co,AdvertisingTest
 HOST-SUFFIX,g9o.cn,AdvertisingTest
 HOST-SUFFIX,ga-ads.com,AdvertisingTest
@@ -30416,6 +30420,7 @@ HOST-SUFFIX,gnoyvsielusbi.xyz,AdvertisingTest
 HOST-SUFFIX,gnpge.com,AdvertisingTest
 HOST-SUFFIX,gnrdomimplementation.com,AdvertisingTest
 HOST-SUFFIX,gnrnws.cn,AdvertisingTest
+HOST-SUFFIX,gnsrlki.cn,AdvertisingTest
 HOST-SUFFIX,gntwnrdui.xyz,AdvertisingTest
 HOST-SUFFIX,gnyergfy.com,AdvertisingTest
 HOST-SUFFIX,go-clicks.de,AdvertisingTest
@@ -34117,6 +34122,7 @@ HOST-SUFFIX,iwin.club,AdvertisingTest
 HOST-SUFFIX,iwkexdab.com,AdvertisingTest
 HOST-SUFFIX,iwofkvupfz.com,AdvertisingTest
 HOST-SUFFIX,iwqzrm.com,AdvertisingTest
+HOST-SUFFIX,iwrzdwi.cn,AdvertisingTest
 HOST-SUFFIX,iwstats.com,AdvertisingTest
 HOST-SUFFIX,iwtserve.com,AdvertisingTest
 HOST-SUFFIX,iwwl.vip,AdvertisingTest
@@ -35584,6 +35590,7 @@ HOST-SUFFIX,klruiogdkhgtha.com,AdvertisingTest
 HOST-SUFFIX,klsdee.com,AdvertisingTest
 HOST-SUFFIX,klsynmld.fun,AdvertisingTest
 HOST-SUFFIX,kltnnxb.cn,AdvertisingTest
+HOST-SUFFIX,kltxw.xyz,AdvertisingTest
 HOST-SUFFIX,klyunker.ru,AdvertisingTest
 HOST-SUFFIX,km-sea.net,AdvertisingTest
 HOST-SUFFIX,kmacon.com,AdvertisingTest
@@ -38317,6 +38324,7 @@ HOST-SUFFIX,masterstats.com,AdvertisingTest
 HOST-SUFFIX,mastertag.effiliation.com,AdvertisingTest
 HOST-SUFFIX,mastertarget.ru,AdvertisingTest
 HOST-SUFFIX,mastervesti.ru,AdvertisingTest
+HOST-SUFFIX,masticsvorlage.website,AdvertisingTest
 HOST-SUFFIX,masture.mobi,AdvertisingTest
 HOST-SUFFIX,matchaix.net,AdvertisingTest
 HOST-SUFFIX,matchcraft.com,AdvertisingTest
@@ -46007,6 +46015,7 @@ HOST-SUFFIX,qkf7jq3b.space,AdvertisingTest
 HOST-SUFFIX,qkffv.com,AdvertisingTest
 HOST-SUFFIX,qkixi.com,AdvertisingTest
 HOST-SUFFIX,qkkgish.cn,AdvertisingTest
+HOST-SUFFIX,qkobbgs.cyou,AdvertisingTest
 HOST-SUFFIX,qksrv.net,AdvertisingTest
 HOST-SUFFIX,qksz.net,AdvertisingTest
 HOST-SUFFIX,qktbbiavkqcqmn.com,AdvertisingTest
@@ -47590,6 +47599,7 @@ HOST-SUFFIX,rlog.9gag.com,AdvertisingTest
 HOST-SUFFIX,rlojitu.xyz,AdvertisingTest
 HOST-SUFFIX,rlomivunesqal.com,AdvertisingTest
 HOST-SUFFIX,rlsospzbvquy.com,AdvertisingTest
+HOST-SUFFIX,rlsynmlz.fun,AdvertisingTest
 HOST-SUFFIX,rluuva.com,AdvertisingTest
 HOST-SUFFIX,rm4b.top,AdvertisingTest
 HOST-SUFFIX,rma.homedepot.com,AdvertisingTest
@@ -47663,6 +47673,7 @@ HOST-SUFFIX,rock.cheerfulhunter.com,AdvertisingTest
 HOST-SUFFIX,rockabox.co,AdvertisingTest
 HOST-SUFFIX,rockcloudspace.com,AdvertisingTest
 HOST-SUFFIX,rockcoke.cn,AdvertisingTest
+HOST-SUFFIX,rocketlinks.ru.com,AdvertisingTest
 HOST-SUFFIX,rocketme.top,AdvertisingTest
 HOST-SUFFIX,rocketyield.com,AdvertisingTest
 HOST-SUFFIX,rockincontent.net,AdvertisingTest
@@ -52525,6 +52536,7 @@ HOST-SUFFIX,teicdn.com,AdvertisingTest
 HOST-SUFFIX,teindsrangier.com,AdvertisingTest
 HOST-SUFFIX,tekaners.com,AdvertisingTest
 HOST-SUFFIX,tel-tel-fie.com,AdvertisingTest
+HOST-SUFFIX,telamongobi.com,AdvertisingTest
 HOST-SUFFIX,telangana-news24.com,AdvertisingTest
 HOST-SUFFIX,telaria.com,AdvertisingTest
 HOST-SUFFIX,telecharger-openoffice.fr,AdvertisingTest
@@ -55949,6 +55961,7 @@ HOST-SUFFIX,vgs-collect-keeper.apps.verygood.systems,AdvertisingTest
 HOST-SUFFIX,vguibased.com,AdvertisingTest
 HOST-SUFFIX,vgvjkw.com,AdvertisingTest
 HOST-SUFFIX,vgw35hwr4w6x.com,AdvertisingTest
+HOST-SUFFIX,vh5g.top,AdvertisingTest
 HOST-SUFFIX,vh79.com,AdvertisingTest
 HOST-SUFFIX,vhajaja.pro,AdvertisingTest
 HOST-SUFFIX,vhjuoaoetdbxt.com,AdvertisingTest
@@ -58704,6 +58717,7 @@ HOST-SUFFIX,wynather.com,AdvertisingTest
 HOST-SUFFIX,wyorrmuftjp.com,AdvertisingTest
 HOST-SUFFIX,wyoutube.fr,AdvertisingTest
 HOST-SUFFIX,wyovhzs.cn,AdvertisingTest
+HOST-SUFFIX,wypetoggles.com,AdvertisingTest
 HOST-SUFFIX,wyphawhity.com,AdvertisingTest
 HOST-SUFFIX,wypovuwu.pro,AdvertisingTest
 HOST-SUFFIX,wyrtaxbhappt.com,AdvertisingTest
@@ -63155,7 +63169,6 @@ HOST-SUFFIX,b.77vcd.com,AdvertisingTest
 HOST-SUFFIX,b.aowugame.com,AdvertisingTest
 HOST-SUFFIX,b.babylon.com,AdvertisingTest
 HOST-SUFFIX,b.baiy.net,AdvertisingTest
-HOST-SUFFIX,b.bdstatic.com,AdvertisingTest
 HOST-SUFFIX,b.boyfriendtv.com,AdvertisingTest
 HOST-SUFFIX,b.bst.126.net,AdvertisingTest
 HOST-SUFFIX,b.cyone.com.cn,AdvertisingTest
@@ -74540,6 +74553,7 @@ HOST-SUFFIX,abtest.alibaba.com,AdvertisingTest
 HOST-SUFFIX,abtesting.perfectcorp.com,AdvertisingTest
 HOST-SUFFIX,abuaac.suzette-shop.jp,AdvertisingTest
 HOST-SUFFIX,abxslg.jollyroom.fi,AdvertisingTest
+HOST-SUFFIX,ac-dir-co.cau1aighae.com,AdvertisingTest
 HOST-SUFFIX,ac-dir-latam.cau1aighae.com,AdvertisingTest
 HOST-SUFFIX,ac-dir-sing.cau1aighae.com,AdvertisingTest
 HOST-SUFFIX,ac-ebis-stb.usen.com,AdvertisingTest
@@ -75616,6 +75630,7 @@ HOST-SUFFIX,aguo.com,AdvertisingTest
 HOST-SUFFIX,ah-qichen.com,AdvertisingTest
 HOST-SUFFIX,ah2sjk1n75th.app.tapmyback.com,AdvertisingTest
 HOST-SUFFIX,ahcyzs8888.com,AdvertisingTest
+HOST-SUFFIX,ahdyvor.cn,AdvertisingTest
 HOST-SUFFIX,ahh8.cn,AdvertisingTest
 HOST-SUFFIX,ahhrtt.bnext.com.tw,AdvertisingTest
 HOST-SUFFIX,ahhrtt.managertoday.com.tw,AdvertisingTest
@@ -76535,6 +76550,7 @@ HOST-SUFFIX,bestmobiworld.com,AdvertisingTest
 HOST-SUFFIX,bestproducttesters.com,AdvertisingTest
 HOST-SUFFIX,bestpush.pconline.com.cn,AdvertisingTest
 HOST-SUFFIX,bestsrv.de,AdvertisingTest
+HOST-SUFFIX,betfairpk.com,AdvertisingTest
 HOST-SUFFIX,betrad.com.edgekey.net,AdvertisingTest
 HOST-SUFFIX,betshun.org,AdvertisingTest
 HOST-SUFFIX,betway787.com,AdvertisingTest
@@ -77303,6 +77319,7 @@ HOST-SUFFIX,clickcay.com,AdvertisingTest
 HOST-SUFFIX,clickdimensions.com,AdvertisingTest
 HOST-SUFFIX,clickeye.cn,AdvertisingTest
 HOST-SUFFIX,clickmail.stubhub.com,AdvertisingTest
+HOST-SUFFIX,clickmobad.net,AdvertisingTest
 HOST-SUFFIX,clickppcbuzz.com,AdvertisingTest
 HOST-SUFFIX,clicks.blockfi.com,AdvertisingTest
 HOST-SUFFIX,clicks.point.app,AdvertisingTest
@@ -79194,6 +79211,7 @@ HOST-SUFFIX,endljp.gong.bg,AdvertisingTest
 HOST-SUFFIX,endljp.nova.bg,AdvertisingTest
 HOST-SUFFIX,endljp.sinoptik.bg,AdvertisingTest
 HOST-SUFFIX,endljp.vesti.bg,AdvertisingTest
+HOST-SUFFIX,enemieshemisphere.com,AdvertisingTest
 HOST-SUFFIX,engage-network.influencemobile.com,AdvertisingTest
 HOST-SUFFIX,engage.im,AdvertisingTest
 HOST-SUFFIX,engage.mhainc.com,AdvertisingTest
@@ -79295,6 +79313,7 @@ HOST-SUFFIX,etl-xlmc-ssl.xunlei.com,AdvertisingTest
 HOST-SUFFIX,etscampaign.motorola.com,AdvertisingTest
 HOST-SUFFIX,etscju.mens-rize.com,AdvertisingTest
 HOST-SUFFIX,etui8.cn,AdvertisingTest
+HOST-SUFFIX,etxrowowxcdchv.com,AdvertisingTest
 HOST-SUFFIX,etym6cero.com,AdvertisingTest
 HOST-SUFFIX,etznkn.ec-store.net,AdvertisingTest
 HOST-SUFFIX,eu.cf,AdvertisingTest
@@ -79462,6 +79481,7 @@ HOST-SUFFIX,fdsz.n27lw.cn,AdvertisingTest
 HOST-SUFFIX,fear7calk.com,AdvertisingTest
 HOST-SUFFIX,feb.hdingkun.com,AdvertisingTest
 HOST-SUFFIX,febcyv.joshi-spa.jp,AdvertisingTest
+HOST-SUFFIX,februarynip.com,AdvertisingTest
 HOST-SUFFIX,feductius.com,AdvertisingTest
 HOST-SUFFIX,feed-image.baidu.com,AdvertisingTest
 HOST-SUFFIX,feed.mikle.com,AdvertisingTest
@@ -79865,6 +79885,7 @@ HOST-SUFFIX,gcoiys.cutsclothing.com,AdvertisingTest
 HOST-SUFFIX,gcudsn.tradetested.co.nz,AdvertisingTest
 HOST-SUFFIX,gcwubi.happypancake.fi,AdvertisingTest
 HOST-SUFFIX,gcwubi.happypancake.se,AdvertisingTest
+HOST-SUFFIX,gdgffir.cn,AdvertisingTest
 HOST-SUFFIX,gdhzpmh.com,AdvertisingTest
 HOST-SUFFIX,gdicoou.com,AdvertisingTest
 HOST-SUFFIX,gdiplonges.carte-gr.total.fr,AdvertisingTest
@@ -85097,6 +85118,7 @@ HOST-SUFFIX,pokkt.fuse-ad.com,AdvertisingTest
 HOST-SUFFIX,polarbear.codeday.org,AdvertisingTest
 HOST-SUFFIX,policy.cupid.qiyi.com,AdvertisingTest
 HOST-SUFFIX,pomeb69omwjj.www.earthclassmail.com,AdvertisingTest
+HOST-SUFFIX,ponti-pzk.com,AdvertisingTest
 HOST-SUFFIX,pony.bylt.co,AdvertisingTest
 HOST-SUFFIX,pony.ftm.cat,AdvertisingTest
 HOST-SUFFIX,pony.musicmixpro.co.uk,AdvertisingTest
@@ -85541,6 +85563,7 @@ HOST-SUFFIX,qnqdpy.edreams.net,AdvertisingTest
 HOST-SUFFIX,qnvljz.info,AdvertisingTest
 HOST-SUFFIX,qnwxk.com,AdvertisingTest
 HOST-SUFFIX,qoqv.com,AdvertisingTest
+HOST-SUFFIX,qosbbzw.cyou,AdvertisingTest
 HOST-SUFFIX,qpkiqe.catawiki.nl,AdvertisingTest
 HOST-SUFFIX,qps.cint.com,AdvertisingTest
 HOST-SUFFIX,qpwoei2.com,AdvertisingTest
@@ -88021,6 +88044,7 @@ HOST-SUFFIX,st.wir-entdecken-bayern.de,AdvertisingTest
 HOST-SUFFIX,st.yagla.ru,AdvertisingTest
 HOST-SUFFIX,staaqwe.com,AdvertisingTest
 HOST-SUFFIX,stable.icecyber.org,AdvertisingTest
+HOST-SUFFIX,standardscaldexcessive.com,AdvertisingTest
 HOST-SUFFIX,star-media.cn,AdvertisingTest
 HOST-SUFFIX,starfish.pandora.xiaomi.com,AdvertisingTest
 HOST-SUFFIX,starget.aircanada.com,AdvertisingTest
@@ -88637,6 +88661,7 @@ HOST-SUFFIX,sweetbook.net,AdvertisingTest
 HOST-SUFFIX,sweetmedia.org,AdvertisingTest
 HOST-SUFFIX,sweetstudents.com,AdvertisingTest
 HOST-SUFFIX,swift.jos.ht,AdvertisingTest
+HOST-SUFFIX,swiftpedigreebike.com,AdvertisingTest
 HOST-SUFFIX,swishu.com,AdvertisingTest
 HOST-SUFFIX,swordfish.holzschuhe.at,AdvertisingTest
 HOST-SUFFIX,swordfish.hotcross.com,AdvertisingTest
@@ -90579,6 +90604,7 @@ HOST-SUFFIX,wecan88.com,AdvertisingTest
 HOST-SUFFIX,weddingeeos.com,AdvertisingTest
 HOST-SUFFIX,weheartit.com,AdvertisingTest
 HOST-SUFFIX,wehoofurniture.com,AdvertisingTest
+HOST-SUFFIX,weiaati.cyou,AdvertisingTest
 HOST-SUFFIX,weidianyuedu.com,AdvertisingTest
 HOST-SUFFIX,weighted.com.akadns.net,AdvertisingTest
 HOST-SUFFIX,weilang.site,AdvertisingTest
@@ -91433,6 +91459,7 @@ HOST-SUFFIX,ziyouxiaoyuan.cn,AdvertisingTest
 HOST-SUFFIX,zj66.net,AdvertisingTest
 HOST-SUFFIX,zjbfke.centerparcs.be,AdvertisingTest
 HOST-SUFFIX,zjejua.portmans.com.au,AdvertisingTest
+HOST-SUFFIX,zjgzp4z9.xyz,AdvertisingTest
 HOST-SUFFIX,zjj.xhdccz.com,AdvertisingTest
 HOST-SUFFIX,zjsyawqj.cn,AdvertisingTest
 HOST-SUFFIX,zkads.cc,AdvertisingTest
@@ -91444,6 +91471,7 @@ HOST-SUFFIX,zlgpqh.rikorda.it,AdvertisingTest
 HOST-SUFFIX,zlink8.com,AdvertisingTest
 HOST-SUFFIX,zlinkv.com,AdvertisingTest
 HOST-SUFFIX,zlmapa.nestenn.com,AdvertisingTest
+HOST-SUFFIX,zlsynmlq.fun,AdvertisingTest
 HOST-SUFFIX,zlvxiw.medicarelife.com,AdvertisingTest
 HOST-SUFFIX,zly.dlhxgg.com,AdvertisingTest
 HOST-SUFFIX,zmctrack.net,AdvertisingTest
@@ -91458,6 +91486,7 @@ HOST-SUFFIX,znlgplt.com,AdvertisingTest
 HOST-SUFFIX,znmtka.kikocosmetics.com,AdvertisingTest
 HOST-SUFFIX,znrgrd.johndog.pl,AdvertisingTest
 HOST-SUFFIX,znxblom.cn,AdvertisingTest
+HOST-SUFFIX,zo6g.top,AdvertisingTest
 HOST-SUFFIX,zodxgk.lecoqsportif.com,AdvertisingTest
 HOST-SUFFIX,zona.pl,AdvertisingTest
 HOST-SUFFIX,zona.plus,AdvertisingTest
